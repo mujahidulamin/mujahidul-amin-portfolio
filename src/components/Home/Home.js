@@ -3,6 +3,7 @@ import img from '../../assets/img/pic.jpg'
 import Typewriter from 'typewriter-effect';
 const Home = () => {
     return (
+        //home section
         <div className="hero min-h-screen ">
             <div className="hero-content grid grid-cols-1 lg:grid-cols-2">
                 <img src={img} className=" sm:w-3/4 mx-auto rounded-full" alt='' />

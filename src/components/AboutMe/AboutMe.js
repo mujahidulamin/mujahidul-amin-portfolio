@@ -2,6 +2,8 @@ import React from 'react';
 
 const AboutMe = () => {
     return (
+
+        //about me
         <div className='my-10'>
     <p className='text-center mx-8 font-bold text-4xl mb-8'>About MySelf</p>
             <p className='text-center mx-8 text-justify'>Highly dedicated & creative MERN familiar, Front End Developer. Always passionate about new information & technologies. Striving to never stop learning and improving. Look forward to Working with a creative team to improve my skill and add value.
