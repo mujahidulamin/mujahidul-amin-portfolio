@@ -8,6 +8,7 @@ const ProjectDetails = () => {
 
 
     return (
+        //project details section
         <div class="max-w-4xl mx-6 lg:m-auto md:m-auto lg:my-8 my-8 overflow-hidden bg-white rounded-lg shadow-md dark:bg-gray-800">
             <div className="carousel w-full">
                 <div id="slide1" className="carousel-item relative w-full">
