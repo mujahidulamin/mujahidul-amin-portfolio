@@ -43,6 +43,7 @@ const Projects = () => {
 
 
     return (
+        //project section
         <div className='my-5'>
             <h2 className='text-center font-bold text-3xl mb-4'>My Projects</h2>
             <div className='grid lg:gap-20 gap-8 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mx-20'>
