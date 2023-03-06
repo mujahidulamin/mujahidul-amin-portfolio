@@ -43,12 +43,12 @@ const ProjectDetails = () => {
                         <span> <a alt="" href={project.live} target="blank" class="mt-2 text-2xl font-semibold text-gray-800 transition-colors duration-300 transform dark:text-white hover:text-gray-600 hover:underline" tabindex="0" role="link">{project.title}</a></span>
                         <span>
                             <button className='btn btn-sm'>
-                                <a href= {project.githubClient} target="blank">Gihub Client Link</a>
+                                <a href= {project.githubClient} target="blank">Github Client Link</a>
                             </button>
                         </span>
                         <span>
                             <button className='btn btn-sm'>
-                                <a href= {project.githubServer} target = "blank">Gihub Server Link</a>
+                                <a href= {project.githubServer} target = "blank">Github Server Link</a>
                             </button>
                         </span>
                         <span>

@@ -3,7 +3,7 @@ import './Skills.css';
 
 function Skills() {
     return (
-        <section className="my-8">
+        <section className="my-8 mx-6 lg:mx-0">
 
             <div className="container ">
                 <h1 className="title-text">My Skills</h1>
