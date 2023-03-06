@@ -23,7 +23,7 @@ const Contact = () => {
 
     return (
         //Contact section
-        <div className="hero min-h-screen">
+        <div className="hero ">
             <div className="hero-content flex-col lg:flex-row-reverse">
                 <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
                     <p className='text-2xl text-center font-bold mb-4'>Contact Me</p>

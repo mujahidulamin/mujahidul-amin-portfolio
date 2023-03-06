@@ -64,7 +64,7 @@ function Skills() {
                     </div>
                 </div>
                 <div className="skill-box">
-                    <span className="title">ExpressJS</span>
+                    <span className="title">MongoDB</span>
                     <div className="skill-bar">
                         <span className="skill-per mongodb">
                             <span className="tooltip">60%</span>
